@@ -112,11 +112,33 @@
 
 ### **💻 Programming & Frameworks**
 - [ ] Java 8/11/17/21, Spring Boot, Maven
-- [ ] JUnit, Mockito, Hibernate, Data JPA
-- [ ] REST, GraphQL, gRPC (Protocol Buffers)
-- [ ] Multithreading, Async Jobs, Schedulers
+  - [ ] **Java 8 top features:**  
+    - **Lambda Expressions** (functional-style programming)  
+    - **Streams API** (functional operations on collections)  
+    - **Default & Static Methods in Interfaces** (interface evolution)  
+    - **Functional Interfaces** (`Predicate`, `Consumer`, `Supplier`, etc.)  
+    - **Optional** (avoiding `null` checks)  
+    - **New Date-Time API** (`LocalDate`, `LocalTime`, `LocalDateTime`, etc.)  
+    - **Collectors & Parallel Streams** (efficient data processing)  
+  - [ ] **Java 11+ top features**  
+    - New string methods (`isBlank()`, `lines()`, `strip()`)  
+    - `var` keyword in lambda expressions  
+    - HTTP Client API  
+    - Single-file execution (`java HelloWorld.java`)  
+  - [ ] **Java 17+ top features**  
+    - **Sealed classes** (controlling class hierarchy)  
+    - **Pattern matching for `switch`** (cleaner code)  
+    - **Records** (better data classes)  
+  - [ ] **Java 21+ top features**  
+    - **Virtual Threads** (efficient lightweight threads)  
+    - **Scoped Values** (better than `ThreadLocal`)  
+    - **Foreign Function API** (interfacing with native code)  
+- [ ] JUnit, Mockito, Hibernate, Data JPA  
+- [ ] REST, GraphQL, gRPC (Protocol Buffers)  
+- [ ] Multithreading, Async Jobs, Schedulers  
 - [ ] Authentication & Authorization  
   - [ ] Session, JWT, OAuth 2.0  
+
 
 ### **📜 Logging & API Documentation**
 - [ ] Log4j, Swagger (OpenAPI)
