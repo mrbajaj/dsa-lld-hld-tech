@@ -155,19 +155,3 @@
 - [ ] JVisualVM, YourKit (New Relic)
 
 ---
-
-## 5. 🏢 Work Project
-
-### **S1**
-- [ ] Metering
-- [ ] KCP Migration
-
-### **Simpl**
-- [ ] Increase Credit Limit  
-  - [ ] Digio AADHAR  
-  - [ ] Sim Binded Login  
-
-### **Workspot**
-- [ ] NOC / Watch Service
-
-
