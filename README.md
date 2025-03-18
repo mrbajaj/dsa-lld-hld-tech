@@ -122,7 +122,8 @@
 - [ ] Log4j, Swagger (OpenAPI)
 
 ### **🌐 Networking**
-- [ ] HTTP, TCP, FTP, SMTP
+- [ ] HTTP, HTTPS, TCP, FTP, SMTP, DNS
+- [ ] SSH, TLS, UDP, IP, IPv6
 
 ### **🛡 Resiliency & Service Discovery**
 - [ ] Service Discovery (Consul, Eureka)
