@@ -108,23 +108,7 @@
 
 ---
 
-## 4. 🏢 Work Project
-
-### **S1**
-- [ ] Metering
-- [ ] KCP Migration
-
-### **Simpl**
-- [ ] Increase Credit Limit  
-  - [ ] Digio AADHAR  
-  - [ ] Sim Binded Login  
-
-### **Workspot**
-- [ ] NOC / Watch Service
-
----
-
-## 5. ⚙ Tech Stack
+## 4. ⚙ Tech Stack
 
 ### **💻 Programming & Frameworks**
 - [ ] Java 8/11/17/21, Spring Boot, Maven
@@ -168,3 +152,21 @@
 - [ ] IntelliJ, Postman  
 - [ ] ThreadDump/HeapDump Analyzers  
 - [ ] JVisualVM, YourKit (New Relic)
+
+---
+
+## 5. 🏢 Work Project
+
+### **S1**
+- [ ] Metering
+- [ ] KCP Migration
+
+### **Simpl**
+- [ ] Increase Credit Limit  
+  - [ ] Digio AADHAR  
+  - [ ] Sim Binded Login  
+
+### **Workspot**
+- [ ] NOC / Watch Service
+
+
