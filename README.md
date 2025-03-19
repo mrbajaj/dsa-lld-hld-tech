@@ -3,16 +3,24 @@
 ## 1. DSA
 
 ### 📌 Data Structures
-- [ ] Array, String, LinkedList, Tree, Graph
-- [ ] Heap, AVL, B-Trees, B+Trees, Red-Black Tree
-- [ ] Trie, Binary Indexed Tree, n-ary Tree, Segment Tree
+- [ ] Arrays, String,
+- [ ] LinkedList,
+- [ ] Tree
+- [ ] Graph
+- [ ] Heap,
+- [ ] AVL, B-Trees, B+Trees, Red-Black Tree
+- [ ] Trie
+- [ ] Binary Indexed Tree, n-ary Tree, Segment Tree
 
 ### 📌 Pattern Matching Algorithms
-- [ ] Brute Force, Rabin-Karp, KMP
+- [ ] Brute Force
+- [ ] Rabin-Karp
+- [ ] KMP
 - [ ] Finite Automata, Boyer-Moore
 
 ### 📌 Graph Algorithms
-- [ ] Spanning Tree (Prims, Kruskals), DFS, BFS
+- [ ] Spanning Tree (Prims, Kruskals)
+- [ ] DFS, BFS
 - [ ] Shortest Path (Dijkstra, Bellman-Ford, Floyd-Warshall)
 - [ ] Disjoint Set (Union-Find)
 - [ ] Flood Fill Algorithm
@@ -29,16 +37,18 @@
 
 ### 📌 DSA Patterns
 - [ ] Two Pointers, Slow-Fast Pointers
-- [ ] Sliding Window, LinkedList Reversal
+- [ ] Sliding Window
+- [ ] LinkedList Reversal
 - [ ] Modified Binary Search
 - [ ] Island (Matrix Traversal)
 - [ ] Two Heaps, Top-K Elements
-- [ ] K-way Merge, Cyclic Sort
-- [ ] BFS, DFS, Topological Sort
+- [ ] K-way Merge
+- [ ] Cyclic Sort
+- [ ] BFS, DFS
+- [ ] Topological Sort
 - [ ] Bitwise XOR
-- [ ] Fibonacci Number, Subsets, 0/1 Knapsack
-- [ ] Palindromic Subsequence
-- [ ] Longest Common Subsequence
+- [ ] Fibonacci Number
+- [ ] Subsets
 
 ### 📌 Dynamic Programming
 - [ ] 0/1 Knapsack Pattern
@@ -168,7 +178,8 @@
 - [ ] PostgreSQL, MongoDB, Redis, Elasticsearch (Kibana)
 
 ### **📩 Message Brokers**
-- [ ] Kafka, RabbitMQ
+- [ ] Kafka
+- [ ] RabbitMQ
 
 ### **☁ Cloud Technologies**
 - [ ] **AWS** CloudFront (/Cloudflare), API Gateway  
