@@ -20,7 +20,9 @@
 - [ ] Euler’s Path, Hamiltonian Path
 
 ### 📌 Sorting Algorithms
-- [ ] Merge Sort, Heap Sort, Quick Sort
+- [ ] Merge Sort
+- [ ] Heap Sort
+- [ ] Quick Sort
 - [ ] Insertion Sort, Selection Sort, Radix Sort
 - [ ] `Collections.sort()` internals
 - [ ] `Arrays.sort()` internals
