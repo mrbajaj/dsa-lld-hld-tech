@@ -39,7 +39,19 @@
 - [ ] Longest Common Subsequence
 
 ### 📌 Dynamic Programming
-
+- [ ] 0/1 Knapsack Pattern
+- [ ] Unbounded Knapsack Pattern'
+- [ ] Fibonacci Pattern (Simple Recurrence Relation)
+- [ ] Longest Common Subsequence (LCS) Pattern
+- [ ] Longest Increasing Subsequence (LIS) Pattern
+- [ ] Matrix Chain Multiplication (MCM) Pattern
+- [ ] Palindromic Subsequence and Partitioning Pattern
+- [ ] Coin Change / Ways to Form a Sum Pattern
+- [ ] Two-Dimensional DP Pattern (Grid-Based Problems)
+- [ ] DP on Trees
+- [ ] DP with Bitmasking
+- [ ] DP on Ranges
+- [ ] DP with Sliding Window / Kadane’s Algorithm
 ---
 
 ## 2. 🛠 LLD & Machine Coding
