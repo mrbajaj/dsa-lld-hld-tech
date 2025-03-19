@@ -125,33 +125,32 @@
 ## 4. ⚙ Tech Stack
 
 ### **💻 Programming & Frameworks**
-- [ ] Java 8/11/17/21, Spring Boot, Maven
-  - [ ] **Java 8 top features:**  
-    - **Lambda Expressions** (functional-style programming)  
-    - **Streams API** (functional operations on collections)  
-    - **Default & Static Methods in Interfaces** (interface evolution)  
-    - **Functional Interfaces** (`Predicate`, `Consumer`, `Supplier`, etc.)  
-    - **Optional** (avoiding `null` checks)  
-    - **New Date-Time API** (`LocalDate`, `LocalTime`, `LocalDateTime`, etc.)  
-    - **Collectors & Parallel Streams** (efficient data processing)  
-  - [ ] **Java 11+ top features**  
-    - New string methods (`isBlank()`, `lines()`, `strip()`)  
-    - `var` keyword in lambda expressions  
-    - HTTP Client API  
-    - Single-file execution (`java HelloWorld.java`)  
-  - [ ] **Java 17+ top features**  
-    - **Sealed classes** (controlling class hierarchy)  
-    - **Pattern matching for `switch`** (cleaner code)  
-    - **Records** (better data classes)  
-  - [ ] **Java 21+ top features**  
-    - **Virtual Threads** (efficient lightweight threads)  
-    - **Scoped Values** (better than `ThreadLocal`)  
-    - **Foreign Function API** (interfacing with native code)  
-- [ ] JUnit, Mockito, Hibernate, Data JPA  
-- [ ] REST, GraphQL, SOAP, Websocket, gRPC (Protocol Buffers)  
-- [ ] Multithreading, Async Jobs, Schedulers  
-- [ ] Authentication & Authorization  
-  - [ ] Session, JWT, OAuth 2.0  
+- [ ] **Java 8 | Lambda Expressions** (functional-style programming)  
+- [ ] **Java 8 | Streams API** (functional operations on collections)  
+- [ ] **Java 8 | Default & Static Methods in Interfaces** (interface evolution)  
+- [ ] **Java 8 | Functional Interfaces** (`Predicate`, `Consumer`, `Supplier`, etc.)  
+- [ ] **Java 8 | Optional** (avoiding `null` checks)  
+- [ ] **Java 8 | New Date-Time API** (`LocalDate`, `LocalTime`, `LocalDateTime`, etc.)  
+- [ ] **Java 8 | Collectors & Parallel Streams** (efficient data processing)  
+
+- [ ] **Java 11 | New String Methods** (`isBlank()`, `lines()`, `strip()`)  
+- [ ] **Java 11 | var in Lambda Expressions** (local variable type inference)  
+- [ ] **Java 11 | HTTP Client API** (modern HTTP communication)  
+- [ ] **Java 11 | Single-File Execution** (`java HelloWorld.java`)  
+
+- [ ] **Java 17 | Sealed Classes** (restricting class hierarchy)  
+- [ ] **Java 17 | Pattern Matching for switch** (cleaner and safer switch cases)  
+- [ ] **Java 17 | Records** (better, immutable data classes)  
+
+- [ ] **Java 21 | Virtual Threads** (lightweight threads for high concurrency)  
+- [ ] **Java 21 | Scoped Values** (better than `ThreadLocal` for shared data)  
+- [ ] **Java 21 | Foreign Function API** (interacting with native code)  
+
+- [ ] **JUnit, Mockito, Hibernate, Data JPA**  
+- [ ] **REST, GraphQL, SOAP, WebSocket, gRPC (Protocol Buffers)**  
+- [ ] **Multithreading, Async Jobs, Schedulers**  
+- [ ] **Authentication & Authorization | Session; JWT; OAuth 2.0**
+
 
 
 ### **📜 Logging & API Documentation**
