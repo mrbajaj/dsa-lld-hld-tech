@@ -134,9 +134,8 @@
 
 ---
 
-## 4. ⚙ Tech Stack
+## 4. ⚙ Tech & Tools
 
-### **💻 Programming & Frameworks**
 - [ ] **Java 8 | Lambda Expressions** (functional-style programming)  
 - [ ] **Java 8 | Streams API** (functional operations on collections)  
 - [ ] **Java 8 | Default & Static Methods in Interfaces** (interface evolution)  
@@ -163,46 +162,43 @@
 - [ ] **Multithreading; Async Jobs; Schedulers**  
 - [ ] **Authentication & Authorization | Session; JWT; OAuth 2.0**  
 
-### **📜 Logging & API Documentation**
-- [ ] Log4j; Swagger (OpenAPI)
+- [ ] Log4j;
+- [ ] Swagger (OpenAPI)
 
-### **🌐 Networking**
-- [ ] HTTP; HTTPS; TCP; FTP; SMTP; DNS
-- [ ] SSH; TLS; UDP; IP; IPv6
+- [ ] Networking | DNS
+- [ ] Networking | HTTP; HTTPS;
+- [ ] Networking | TCP; FTP; SMTP;
+- [ ] Networking | SSH; TLS; UDP; IP; IPv6
 
-### **🛡 Resiliency & Service Discovery**
 - [ ] Service Discovery (Consul; Eureka)
 - [ ] Circuit Breakers (Resilience4j; Hystrix)
 
-### **🗄 Databases & Storage**
-- [ ] PostgreSQL; MongoDB; Redis; Elasticsearch (Kibana)
+- [ ] DB | PostgreSQL; SQL Queries
+- [ ] DB | MongoDB;
+- [ ] DB | Redis;
+- [ ] DB Elasticsearch (Kibana)
 
-### **📩 Message Brokers**
 - [ ] Kafka
 - [ ] RabbitMQ
 
-### **☁ Cloud Technologies**
 - [ ] **AWS** CloudFront (/Cloudflare); API Gateway  
 - [ ] **AWS** ECS; EC2; S3  
 - [ ] **AWS** ALB; Security Groups; IAM Roles  
 
-### **🔧 CI/CD & DevOps**
-- [ ] Jenkins
-- [ ] Kubernetes; Docker; Helm; Artifactory
-- [ ] GitHub Actions
-- [ ] Terraform/CloudFormation
+- [ ] DevOps | Jenkins
+- [ ] DevOps | Kubernetes; Docker;
+- [ ] DevOps | Helm; Artifactory; GitHub Actions; Terraform/CloudFormation
 
-### **📊 Monitoring & Observability**
 - [ ] Observability: CloudWatch; Scalyr (PowerQuery); Papertrail
 - [ ] Observability: Grafana
 - [ ] Observability: Prometheus
 - [ ] Observability: PagerDuty
 - [ ] Observability: OpenTelemetry
 
-### **🛠 Developer Tools**
-- [ ] IntelliJ
-- [ ] Postman  
-- [ ] ThreadDump/HeapDump Analyzers | JVisualVM; YourKit (New Relic)
+- [ ] Tools | IntelliJ
+- [ ] Tools | Postman
+- [ ] Tools | Linux Commands and Terminal  
+- [ ] Tools | ThreadDump/HeapDump Analyzers | JVisualVM; YourKit (New Relic)
 
 ## 5. 🏢 Work Projects
 - [Link](https://github.com/mrbajaj/my-work-projects/tree/main)
