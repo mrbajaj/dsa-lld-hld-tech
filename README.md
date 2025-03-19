@@ -76,8 +76,8 @@
 ## 3. 🏗 HLD Concepts and FAQs
 
 - [ ] Monolithic vs Microservice Architecture  
-  - [ ] Service Discovery  
-  - [ ] Resiliency  
+- [ ] Service Discovery  
+- [ ] Resiliency  
 - [ ] Vertical vs Horizontal Scaling
 - [ ] Load Balancing / Application Delivery Controller (ADC)
 - [ ] Consistent Hashing
@@ -88,22 +88,20 @@
 - [ ] Partitioning / Sharding
 - [ ] Optimistic vs Pessimistic Locking
 - [ ] Strong vs Eventual Consistency
-- [ ] SQL vs NoSQL  
-  - [ ] Types of NoSQL (Key-Value, Wide Column, Document-Based, Graph-Based)
+- [ ] SQL vs NoSQL | Types of NoSQL (Key-Value, Wide Column, Document-Based, Graph-Based)
 - [ ] Caching Strategies
 - [ ] Data Centers / Racks / Hosts
 - [ ] CPU, Memory, Hard Drives, Network Bandwidth
 - [ ] Random vs Sequential Read/Writes to Disk
 - [ ] DNS Lookup
-- [ ] HTTP, HTTPS, HTTP2
-  - [ ] SSL/TLS  
-  - [ ] Public Key Infrastructure & Certificate Authority (CA)  
-  - [ ] Symmetric vs Asymmetric Encryption  
-- [ ] WebSockets  
-  - [ ] Long-Polling vs WebSockets vs Server-Sent Events  
+- [ ] HTTP, HTTPS, HTTP1.1,HTTP2.0
+- [ ] SSL/TLS  
+- [ ] Public Key Infrastructure & Certificate Authority (CA)  
+- [ ] Symmetric vs Asymmetric Encryption  
+- [ ] WebSockets | Long-Polling vs WebSockets vs Server-Sent Events  
 - [ ] TCP/IP Model  
-  - [ ] IPv4 vs IPv6  
-  - [ ] TCP vs UDP  
+- [ ] IPv4 vs IPv6  
+- [ ] TCP vs UDP  
 - [ ] Consistent Hashing
 - [ ] CDNs & Edge Computing
 - [ ] Data Partitioning
@@ -171,23 +169,27 @@
 - [ ] Kafka, RabbitMQ
 
 ### **☁ Cloud Technologies**
-- [ ] **AWS**  
-  - [ ] CloudFront (/Cloudflare), API Gateway  
-  - [ ] ECS, EC2, S3  
-  - [ ] ALB, Security Groups, IAM Roles  
+- [ ] **AWS** CloudFront (/Cloudflare), API Gateway  
+- [ ] **AWS** ECS, EC2, S3  
+- [ ] **AWS** ALB, Security Groups, IAM Roles  
 
 ### **🔧 CI/CD & DevOps**
-- [ ] Jenkins, Kubernetes, Docker, Helm, Artifactory
-- [ ] ArgoCD, Helm, GitHub Actions, Terraform/CloudFormation
+- [ ] Jenkins
+- [ ] Kubernetesl; Docker; Helm; Artifactory
+- [ ] GitHub Actions
+- [ ] Terraform/CloudFormation
 
 ### **📊 Monitoring & Observability**
-- [ ] CloudWatch, Scalyr (PowerQuery), Papertrail
-- [ ] Grafana, Prometheus, PagerDuty, OpenTelemetry
+- [ ] Observability: CloudWatch, Scalyr (PowerQuery), Papertrail
+- [ ] Observability: Grafana,
+- [ ] Observability: Prometheus
+- [ ] Observability: PagerDuty
+- [ ] Observability: OpenTelemetry
 
 ### **🛠 Developer Tools**
-- [ ] IntelliJ, Postman  
-- [ ] ThreadDump/HeapDump Analyzers  
-- [ ] JVisualVM, YourKit (New Relic)
+- [ ] IntelliJ
+- [ ] Postman  
+- [ ] ThreadDump/HeapDump Analyzers  | JVisualVM, YourKit (New Relic)
 
 ## 5. 🏢 Work Projects
 - [Link](https://github.com/mrbajaj/my-work-projects/tree/main)
