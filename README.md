@@ -38,6 +38,8 @@
 - [ ] Palindromic Subsequence
 - [ ] Longest Common Subsequence
 
+### 📌 Dynamic Programming
+
 ---
 
 ## 2. 🛠 LLD & Machine Coding
