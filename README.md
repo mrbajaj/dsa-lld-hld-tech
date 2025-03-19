@@ -6,6 +6,8 @@
 - [ ] Arrays
 - [ ] String
 - [ ] LinkedList
+- [ ] Stack; Queue
+- [ ] HashMap
 - [ ] Tree
 - [ ] Graph
 - [ ] Heap
