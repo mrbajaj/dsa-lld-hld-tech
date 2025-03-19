@@ -134,7 +134,7 @@
     - **Scoped Values** (better than `ThreadLocal`)  
     - **Foreign Function API** (interfacing with native code)  
 - [ ] JUnit, Mockito, Hibernate, Data JPA  
-- [ ] REST, GraphQL, gRPC (Protocol Buffers)  
+- [ ] REST, GraphQL, SOAP, gRPC (Protocol Buffers)  
 - [ ] Multithreading, Async Jobs, Schedulers  
 - [ ] Authentication & Authorization  
   - [ ] Session, JWT, OAuth 2.0  
